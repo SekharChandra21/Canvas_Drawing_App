@@ -1,0 +1,27 @@
+body{
+    margin:0;
+    overflow:hidden;
+    font-family:sans-serif
+}
+.layer{
+    position:absolute;
+    top:0; left:0
+}
+.users{
+    position:fixed;
+    top:10px;
+    right:10px;
+    background:#111;
+    color:#fff;
+    padding:10px;
+    border-radius:8px
+}
+.toolbar{
+    position:fixed;
+    bottom:10px;
+    left:10px
+}
+button{
+    margin-right:10px;
+    padding:10px
+}
