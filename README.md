@@ -1,3 +1,4 @@
+1. Backend
 ```
 cd Backend
 npm init -y
@@ -6,6 +7,7 @@ npm install --save-dev nodemon
 node src/server.js
 ```
 
+2. Frontend
 ```
 cd Frontend
 npx create-react-app .
